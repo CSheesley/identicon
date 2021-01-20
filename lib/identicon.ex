@@ -9,8 +9,9 @@ defmodule Identicon do
     this module to ultimate create and save an Identicon image based on the hex values of
     the STRING argument. Return value is `:ok`, and results in a `.png` file creation.
 
-    iex> Identicon.main("asdf")
-    iex> :ok
+    Example:
+      iex> Identicon.main("asdf")
+      iex> :ok
   """
   def main(input) do
     input
