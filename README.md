@@ -1,6 +1,10 @@
 # Identicon
 
-**TODO: Add description**
+**A program that creates and saves an 'Identicon' from a passed in string.**
+
+![identicon](corey.png)
+
+[Udemy Elixir-Phoenix Tutorial](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
 ## Installation
 
@@ -18,4 +22,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
-
